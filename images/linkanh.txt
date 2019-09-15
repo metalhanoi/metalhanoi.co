@@ -1,0 +1,4 @@
+﻿logo: https://res.cloudinary.com/dgztyijwr/image/upload/v1534740685/logo1.png
+anh game 1: https://res.cloudinary.com/dgztyijwr/image/upload/v1534746565/game1.png
+ảnh game 2: https://res.cloudinary.com/dgztyijwr/image/upload/v1534746566/game2.png
+link tải game: https://play.google.com/store/apps/details?id=com.najin.looper
